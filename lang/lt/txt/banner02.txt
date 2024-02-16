@@ -1,0 +1,8 @@
+"Mes bendraujame 9 kalbomis.",
+"Imigracija ir ES vizos.",
+"Finansinės konsultacijos.",
+"Atstovavimas teisme.",
+"Ginčų sprendimas.",
+"Transportas, draudimas, farmacija.",
+"Informacinės technologijos ir intelektinė nuosavybė.",
+"Išleidimas iš kalėjimų, psichiatrinių ligoninių, migrantų stovyklų.",

@@ -1,0 +1,8 @@
+"Wir sprechen 9 Sprachen.",
+"Einwanderung und EU-Visa.",
+"Finanzielle Beratung.",
+"Vertretung vor Gericht.",
+"Streitbeilegung.",
+"Transport, Versicherung, Pharmazie.",
+"IT und geistiges Eigentum",
+"Entlassung aus Gefängnissen, psychiatrischen Kliniken, Migrantenlagern",
