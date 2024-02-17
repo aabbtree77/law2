@@ -16,6 +16,14 @@ It solves the following problems:
 
 - Fixes a lot of i18n problems.
 
+## Setup
+
+1. Install node via nvm or volta.
+
+2. Install [Tailwind CSS](https://tailwindcss.com/docs/installation).
+
+3. Install [Tailwind CSS Typography plugin](https://tailwindcss.com/docs/typography-plugin).
+
 ## Technology/Philosophy
 
 - Tailwind CSS: Extremely useful. Still somewhat low level, but makes everything local and you don't waste time navigating css files and naming classes.

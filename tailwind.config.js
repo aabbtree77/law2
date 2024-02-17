@@ -1,16 +1,15 @@
 /** @type {import('tailwindcss').Config} */
-
-const defaultTheme = require("tailwindcss/defaultTheme");
-
 module.exports = {
-  content: ["./**/*.{html,js}"],
-  plugins: [require("daisyui"), require("@tailwindcss/typography")],
+  content: [ "./index.html", "./**/*.{html,js}"],
   theme: {
-    extend: {
-      fontFamily: {
-        sourcecodepro: ['"Source Code Pro"', ...defaultTheme.fontFamily.sans],
-        caveat: ['"Caveat"', ...defaultTheme.fontFamily.sans],
-      },
-    },
+    extend: {},
   },
-};
+  //plugins: [require('@tailwindcss/typography'),],
+  plugins: [require("daisyui"),require('@tailwindcss/typography'),],
+  /*
+  daisyui: {
+    themes: []
+  },
+  */
+}
+

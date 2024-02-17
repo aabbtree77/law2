@@ -30,14 +30,16 @@ func main() {
 		"realestate", "labour", "it",
 		"dispute", "simonas"}
 
-	slotContentFileNames := []string{"banner01", "banner02", "banner03"}
+	slotContentFileNames := []string{"banner01", "banner02", "banner03", "surname",
+		"radio_langlevel", "langcode"}
 
 	langs := []string{"de", "en", "es", "fr", "it", "lt", "no", "pl", "ru"}
 
+	// Read in the template HTML file
+	template, err := os.ReadFile("index_template.html")
+	check(err)
 	for _, lang := range langs {
-		// Read in the template HTML file
-		template, err := os.ReadFile("lang/" + lang + "/index_template.html")
-		check(err)
+
 		output := string(template)
 
 		for _, name := range mdFileNames {

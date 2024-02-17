@@ -4,5 +4,5 @@
 "Vertretung vor Gericht.",
 "Streitbeilegung.",
 "Transport, Versicherung, Pharmazie.",
-"IT und geistiges Eigentum",
-"Entlassung aus Gefängnissen, psychiatrischen Kliniken, Migrantenlagern",
+"IT und geistiges Eigentum.",
+"Entlassung aus Gefängnissen, psychiatrischen Kliniken, Migrantenlagern.",

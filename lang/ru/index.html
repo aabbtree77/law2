@@ -1,4 +1,5 @@
-<html lang="ru" class="notranslate" translate="no">
+<html lang="ru
+" class="notranslate" translate="no">
   <head>
     <meta charset="UTF-8" />
     <meta name="google" content="notranslate" />
@@ -14,11 +15,9 @@
     <link href="../../index.css" rel="stylesheet" />
     <link rel="icon" type="image/x-icon" href="../../simonas.ico" />
   </head>
-  <body>
-    <div
-      class="flex flex-col w-full md:w-2/3 h-full items-center mx-auto justify-evenly"
-    >
-      <!-- Language radio -->
+  <body class="text-gray-400">
+    <div class="xl:h-screen flex flex-col items-center mx-auto justify-evenly">
+       <!-- Language radio -->
       <div class="grid grid-cols-5 md:grid-cols-9 gap-4">
         <div class="form-control">
           <label class="label cursor-pointer">
@@ -122,82 +121,103 @@
         </div>
       </div>
 
-      <!-- Banner -->
-      <div class="mx-auto flex flex-col justify-evenly items-center h-1/3">
-        <div class="text-3xl md:text-5xl font-bold">lawlt.eu</div>
-        <div class="mx-auto flex flex-col justify-evenly items-center w-2/3">
-          <div class="text-center text-2xl md:text-3xl text-center">
-            Юридические услуги литовским и международным клиентам:
+
+      <!--Main Landing Area-->
+      <div class="w-full h-full flex flex-col xl:flex-row items-center">
+        <!-- Banner -->
+        <div
+          class="w-1/2 h-4/5 flex flex-col justify-evenly items-center py-10"
+        >
+          <div
+            class="text-3xl text-5xl xl:text-9xl font-bold text-neutral-400 pb-5 xl:pb-0"
+          >
+            lawlt.eu
+          </div>
+          <div class="flex flex-col justify-evenly items-center w-2/3">
+            <div class="text-center text-2xl md:text-3xl text-center">
+              Юридические услуги литовским и международным клиентам:
+
+            </div>
+            <div class="h-32">
+              <div
+                id="typewriter"
+                class="text-center text-2xl md:text-3xl py-1 md:py-2"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contacts -->
+        <div
+          class="w-1/2 h-4/5 flex flex-col justify-evenly items-center py-10 text-3xl"
+        >
+          <!-- Law Icons -->
+          <div class="flex flex-row justify-evenly items-center">
+            <!-- Academic Cap -->
+            <svg
+              class="h-20 w-20 text-neutral-400"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+              class="w-12 h-12"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"
+              />
+            </svg>
+
+            <!-- Scale -->
+            <svg
+              class="w-20 h-20 text-neutral-400"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="1.5"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M12 3v17.25m0 0c-1.472 0-2.882.265-4.185.75M12 20.25c1.472 0 2.882.265 4.185.75M18.75 4.97A48.416 48.416 0 0 0 12 4.5c-2.291 0-4.545.16-6.75.47m13.5 0c1.01.143 2.01.317 3 .52m-3-.52 2.62 10.726c.122.499-.106 1.028-.589 1.202a5.988 5.988 0 0 1-2.031.352 5.988 5.988 0 0 1-2.031-.352c-.483-.174-.711-.703-.59-1.202L18.75 4.971Zm-16.5.52c.99-.203 1.99-.377 3-.52m0 0 2.62 10.726c.122.499-.106 1.028-.589 1.202a5.989 5.989 0 0 1-2.031.352 5.989 5.989 0 0 1-2.031-.352c-.483-.174-.711-.703-.59-1.202L5.25 4.971Z"
+              />
+            </svg>
+          </div>
+
+          <div class="text-4xl xl:text-5xl text-neutral-400 pb-5">
+            Контактная информация
 
           </div>
-          <div id="typewriter" class="text-center text-2xl md:text-3xl"></div>
-        </div>
-      </div>
-
-      <!-- Contact -->
-      <div class="mx-auto flex flex-col h-1/2 justify-evenly items-center">
-        <!-- Law Icons -->
-        <div class="flex flex-row justify-evenly items-center">
-          <!-- Academic Cap -->
-          <svg
-            class="h-20 w-20"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-            class="w-12 h-12"
+          <div
+            class="flex flex-col justify-evenly items-center h-1/3 text-center"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"
-            />
-          </svg>
-
-          <!-- Scale -->
-          <svg
-            class="w-20 h-20"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="currentColor"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M12 3v17.25m0 0c-1.472 0-2.882.265-4.185.75M12 20.25c1.472 0 2.882.265 4.185.75M18.75 4.97A48.416 48.416 0 0 0 12 4.5c-2.291 0-4.545.16-6.75.47m13.5 0c1.01.143 2.01.317 3 .52m-3-.52 2.62 10.726c.122.499-.106 1.028-.589 1.202a5.988 5.988 0 0 1-2.031.352 5.988 5.988 0 0 1-2.031-.352c-.483-.174-.711-.703-.59-1.202L18.75 4.971Zm-16.5.52c.99-.203 1.99-.377 3-.52m0 0 2.62 10.726c.122.499-.106 1.028-.589 1.202a5.989 5.989 0 0 1-2.031.352 5.989 5.989 0 0 1-2.031-.352c-.483-.174-.711-.703-.59-1.202L5.25 4.971Z"
-            />
-          </svg>
-        </div>
-
-        <div class="text-center text-3xl">Контактная информация
+            <div>Simonas Reksnys
 </div>
-        <div class="flex flex-col justify-evenly items-center">
-          <div class="text-2xl">Simonas Reksnys</div>
-          <div class="text-xl">Lawyer</div>
-          <div class="text-base">VAT: LT100004598215</div>
-        </div>
-        <div class="flex flex-col justify-evenly items-center">
-          <div class="text-2xl">Tel +37065074647</div>
-          <div class="text-2xl">Fax +37052664811</div>
-          <div class="text-2xl">simonas.reksnys@lawlt.eu</div>
-          <div class="text-2xl">K.Sirvydo str. 6, Vilnius</div>
-          <div class="text-2xl">LT01101, Lithuania</div>
+            <div>Lawyer</div>
+            <div>VAT: LT100004598215</div>
+            <div>K.Sirvydo str. 6, Vilnius</div>
+            <div>LT01101, Lithuania</div>
+          </div>
+          <div
+            class="flex flex-col justify-evenly items-center text-center h-1/3"
+          >
+            <div>Tel +37065074647</div>
+            <div>Fax +37052664811</div>
+            <div>simonas.reksnys@lawlt.eu</div>
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- Divider -->
-
     <!-- Details -->
 
-    <div class="bg-base-200 w-full md:w-2/3 mx-auto font-sourcecodepro">
-      <br />
-      <br />
-      <br />
-      <article class="prose lg:prose-2xl mx-auto">
+    <div
+      class="w-9/12 xl:w-5/12 mx-auto font-sourcecodepro prose-h1:text-neutral-400 prose-h2:text-gray-400 py-10"
+    >
+      <article class="prose-xl mx-auto">
         <h1>О нас</h1>
 
 <p>Адвокат Симонас Рекснис тесно связан с адвокатами, работающими во 2-й Вильнюсской юридической фирме, которая является старейшей из существующих на сегодняшний день юридических фирм в Литве, и членом международных юридических сетей: AQUIL, lawyrs.net и EIN-Law.net. Среди его опубликованных работ - &ldquo;Трудовое право&rdquo;, 550 страниц, издано в 2003 году.</p>
@@ -336,31 +356,31 @@
 </ul>
 
 <p>Наши юристы успешно используют свой богатый опыт и знания при консультировании клиентов по вопросам выбора и реализации оптимальных схем дистрибуции, подготовки договоров и соглашений, составления типовых условий, а также при предоставлении юридических консультаций по различным вопросам, связанным с ведением бизнеса.</p>
- <h1>Competition law</h1>
+ <h1>Конкурентное право</h1>
 
-<p>Competition law is one of the most topical branches of law in business today. The practice of competition law includes the protection of freedom of fair competition. Following Lithuania&rsquo;s accession to the EU, EU legislation on competition and prohibitions on restrictions on competition is directly applicable in Lithuania.</p>
+<p>Конкурентное право - одна из самых актуальных отраслей права в современном бизнесе. Практика конкурентного права включает в себя защиту свободы честной конкуренции. После вступления Литвы в ЕС законодательство ЕС о конкуренции и запретах на ограничение конкуренции применяется в Литве напрямую.</p>
 
-<p>Our lawyers provide the following competition law services:</p>
+<p>Наши юристы предоставляют следующие услуги в области конкурентного права:</p>
 
 <ul>
-<li><p>Advising on the application of Lithuanian and EU competition law;</p></li>
+<li><p>консультирование по вопросам применения законодательства Литвы и ЕС о конкуренции;</p></li>
 
-<li><p>legal assistance in defending the right to fair competition of economic operators;</p></li>
+<li><p>юридическая помощь в защите права хозяйствующих субъектов на добросовестную конкуренцию;</p></li>
 
-<li><p>advising on the compliance of transactions with competition law rules;</p></li>
+<li><p>консультирование по вопросам соответствия сделок нормам антимонопольного законодательства;</p></li>
 
-<li><p>advising on restrictive agreements and concerted practices and exemptions from such agreements, possible abuse of dominant position, unfair competition, misleading and comparative advertising;</p></li>
+<li><p>консультирование по вопросам ограничительных соглашений и согласованной практики и освобождения от таких соглашений, возможного злоупотребления доминирующим положением, недобросовестной конкуренции, вводящей в заблуждение и сравнительной рекламы;</p></li>
 
-<li><p>advising on concentrations and preparing notifications of proposed concentrations;</p></li>
+<li><p>консультирование по вопросам концентрации и подготовка уведомлений о предполагаемой концентрации;</p></li>
 
-<li><p>representing clients&rsquo; interests before the Competition Council and the European Commission in relation to alleged or actual infringements of restrictive agreements and other competition law rules;</p></li>
+<li><p>представление интересов клиентов в Совете по конкуренции и Европейской комиссии в связи с предполагаемыми или фактическими нарушениями ограничительных соглашений и других норм антимонопольного законодательства;</p></li>
 
-<li><p>advising on the granting and legality of State aid.</p></li>
+<li><p>консультирование по вопросам предоставления и законности государственной помощи.</p></li>
 </ul>
 
-<p>Our lawyers have successfully represented major companies before the Competition Council and the courts, advising clients on the application of European Union and national competition law.</p>
+<p>Наши юристы успешно представляют интересы крупных компаний в Совете по конкуренции и судах, консультируя клиентов по вопросам применения законодательства Европейского союза и национального законодательства о конкуренции.</p>
 
-<p>Our lawyers represent clients&rsquo; interests before the Competition Council in connection with its investigations, including investigations into possible abuse of a dominant position, in providing written commitments to the Competition Council, and in defending the client&rsquo;s interests in court in relation to the implementation and application of the legal norms relating to the investigation and the commitment.</p>
+<p>Наши юристы представляют интересы клиентов в Совете по конкуренции в связи с проводимыми им расследованиями, включая расследования возможных злоупотреблений доминирующим положением, при предоставлении письменных обязательств Совету по конкуренции, а также при защите интересов клиента в суде в связи с реализацией и применением правовых норм, относящихся к расследованию и обязательству.</p>
  <h1>Финансовое и банковское право</h1>
 
 <p>Финансовое и банковское право - это отрасль права, которая включает в себя финансирование компаний и проектов, банковское дело и фондовый рынок.</p>
@@ -794,14 +814,14 @@
 
     <script>
       const words = [
-        "Мы говорим на 9 языках",
-"Иммиграция и визы ЕС",
-"Финансовые консультации",
-"Представительство в суде",
-"Разрешение споров",
-"Транспорт, страхование, фармацевтика",
-"Информационные технологии и интеллектуальная собственность",
-"Освобождение из тюрем, психиатрических больниц, лагерей для мигрантов",
+        "Мы говорим на 9 языках.",
+"Иммиграция и визы ЕС.",
+"Финансовые консультации.",
+"Представительство в суде.",
+"Разрешение споров.",
+"Транспорт, страхование, фармацевтика.",
+"Информационные технологии и интеллектуальная собственность.",
+"Освобождение из тюрем, психиатрических больниц, лагерей для мигрантов.",
 
       ];
 

@@ -1,23 +1,23 @@
-# Competition law
+# Konkurranserett
 
-Competition law is one of the most topical branches of law in business today. The practice of competition law includes the protection of freedom of fair competition. Following Lithuania's accession to the EU, EU legislation on competition and prohibitions on restrictions on competition is directly applicable in Lithuania.
+Konkurranserett er et av de mest aktuelle rettsområdene i dagens næringsliv. Konkurranseretten omfatter beskyttelse av fri og rettferdig konkurranse. Etter at Litauen ble medlem av EU, gjelder EUs konkurranselovgivning og forbud mot konkurransebegrensninger direkte i Litauen.
 
-Our lawyers provide the following competition law services:
+Våre advokater tilbyr følgende tjenester innen konkurranserett:
 
-- Advising on the application of Lithuanian and EU competition law;
+- Rådgivning om anvendelsen av litauisk og europeisk konkurranselovgivning;
 
-- legal assistance in defending the right to fair competition of economic operators;
+- juridisk bistand i forsvaret av økonomiske aktørers rett til rettferdig konkurranse;
 
-- advising on the compliance of transactions with competition law rules;
+- Rådgivning om transaksjoners overholdelse av konkurranserettslige regler;
 
-- advising on restrictive agreements and concerted practices and exemptions from such agreements, possible abuse of dominant position, unfair competition, misleading and comparative advertising;
+- Rådgivning om konkurransebegrensende avtaler og samordnet opptreden og unntak fra slike avtaler, mulig misbruk av dominerende stilling, urettferdig konkurranse, villedende og sammenlignende reklame;
 
-- advising on concentrations and preparing notifications of proposed concentrations;
+- Rådgivning om foretakssammenslutninger og utarbeidelse av meldinger om planlagte foretakssammenslutninger;
 
-- representing clients' interests before the Competition Council and the European Commission in relation to alleged or actual infringements of restrictive agreements and other competition law rules;
+- representere klienters interesser overfor Konkurransetilsynet og EU-kommisjonen i forbindelse med påståtte eller faktiske brudd på konkurransebegrensende avtaler og andre konkurranserettslige regler;
 
-- advising on the granting and legality of State aid.
+- rådgivning om tildeling og lovligheten av statsstøtte.
 
-Our lawyers have successfully represented major companies before the Competition Council and the courts, advising clients on the application of European Union and national competition law.
+Våre advokater har representert store selskaper for Konkurransetilsynet og domstolene og gitt råd om anvendelsen av EUs og nasjonal konkurranselovgivning.
 
-Our lawyers represent clients' interests before the Competition Council in connection with its investigations, including investigations into possible abuse of a dominant position, in providing written commitments to the Competition Council, and in defending the client's interests in court in relation to the implementation and application of the legal norms relating to the investigation and the commitment.
+Våre advokater representerer klientenes interesser overfor Konkurransetilsynet i forbindelse med etterforskninger, herunder etterforskninger av mulig misbruk av dominerende stilling, ved å gi skriftlige tilsagn til Konkurransetilsynet, og ved å forsvare klientens interesser i retten i forbindelse med implementering og anvendelse av de rettslige normene knyttet til etterforskningen og tilsagnet.

@@ -1,23 +1,23 @@
-# Competition law
+# Конкурентное право
 
-Competition law is one of the most topical branches of law in business today. The practice of competition law includes the protection of freedom of fair competition. Following Lithuania's accession to the EU, EU legislation on competition and prohibitions on restrictions on competition is directly applicable in Lithuania.
+Конкурентное право - одна из самых актуальных отраслей права в современном бизнесе. Практика конкурентного права включает в себя защиту свободы честной конкуренции. После вступления Литвы в ЕС законодательство ЕС о конкуренции и запретах на ограничение конкуренции применяется в Литве напрямую.
 
-Our lawyers provide the following competition law services:
+Наши юристы предоставляют следующие услуги в области конкурентного права:
 
-- Advising on the application of Lithuanian and EU competition law;
+- консультирование по вопросам применения законодательства Литвы и ЕС о конкуренции;
 
-- legal assistance in defending the right to fair competition of economic operators;
+- юридическая помощь в защите права хозяйствующих субъектов на добросовестную конкуренцию;
 
-- advising on the compliance of transactions with competition law rules;
+- консультирование по вопросам соответствия сделок нормам антимонопольного законодательства;
 
-- advising on restrictive agreements and concerted practices and exemptions from such agreements, possible abuse of dominant position, unfair competition, misleading and comparative advertising;
+- консультирование по вопросам ограничительных соглашений и согласованной практики и освобождения от таких соглашений, возможного злоупотребления доминирующим положением, недобросовестной конкуренции, вводящей в заблуждение и сравнительной рекламы;
 
-- advising on concentrations and preparing notifications of proposed concentrations;
+- консультирование по вопросам концентрации и подготовка уведомлений о предполагаемой концентрации;
 
-- representing clients' interests before the Competition Council and the European Commission in relation to alleged or actual infringements of restrictive agreements and other competition law rules;
+- представление интересов клиентов в Совете по конкуренции и Европейской комиссии в связи с предполагаемыми или фактическими нарушениями ограничительных соглашений и других норм антимонопольного законодательства;
 
-- advising on the granting and legality of State aid.
+- консультирование по вопросам предоставления и законности государственной помощи.
 
-Our lawyers have successfully represented major companies before the Competition Council and the courts, advising clients on the application of European Union and national competition law.
+Наши юристы успешно представляют интересы крупных компаний в Совете по конкуренции и судах, консультируя клиентов по вопросам применения законодательства Европейского союза и национального законодательства о конкуренции.
 
-Our lawyers represent clients' interests before the Competition Council in connection with its investigations, including investigations into possible abuse of a dominant position, in providing written commitments to the Competition Council, and in defending the client's interests in court in relation to the implementation and application of the legal norms relating to the investigation and the commitment.
+Наши юристы представляют интересы клиентов в Совете по конкуренции в связи с проводимыми им расследованиями, включая расследования возможных злоупотреблений доминирующим положением, при предоставлении письменных обязательств Совету по конкуренции, а также при защите интересов клиента в суде в связи с реализацией и применением правовых норм, относящихся к расследованию и обязательству.

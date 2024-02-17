@@ -1,23 +1,23 @@
-# Competition law
+# Diritto della concorrenza
 
-Competition law is one of the most topical branches of law in business today. The practice of competition law includes the protection of freedom of fair competition. Following Lithuania's accession to the EU, EU legislation on competition and prohibitions on restrictions on competition is directly applicable in Lithuania.
+Il diritto della concorrenza è una delle branche del diritto più attuali nel mondo degli affari. La pratica del diritto della concorrenza comprende la tutela della libertà di concorrenza leale. A seguito dell'adesione della Lituania all'Unione Europea, la legislazione dell'UE in materia di concorrenza e di divieti di restrizione della concorrenza è direttamente applicabile in Lituania.
 
-Our lawyers provide the following competition law services:
+I nostri avvocati offrono i seguenti servizi di diritto della concorrenza:
 
-- Advising on the application of Lithuanian and EU competition law;
+- Consulenza sull'applicazione del diritto della concorrenza lituano e dell'UE;
 
-- legal assistance in defending the right to fair competition of economic operators;
+- assistenza legale nella difesa del diritto alla concorrenza leale degli operatori economici;
 
-- advising on the compliance of transactions with competition law rules;
+- consulenza sulla conformità delle transazioni alle norme del diritto della concorrenza;
 
-- advising on restrictive agreements and concerted practices and exemptions from such agreements, possible abuse of dominant position, unfair competition, misleading and comparative advertising;
+- consulenza in materia di accordi restrittivi e pratiche concordate e di esenzioni da tali accordi, eventuali abusi di posizione dominante, concorrenza sleale, pubblicità ingannevole e comparativa;
 
-- advising on concentrations and preparing notifications of proposed concentrations;
+- consulenza in materia di concentrazioni e preparazione di notifiche di concentrazioni proposte;
 
-- representing clients' interests before the Competition Council and the European Commission in relation to alleged or actual infringements of restrictive agreements and other competition law rules;
+- rappresentanza degli interessi dei clienti presso il Consiglio della concorrenza e la Commissione europea in relazione a presunte o effettive violazioni di accordi restrittivi e di altre norme del diritto della concorrenza;
 
-- advising on the granting and legality of State aid.
+- consulenza sulla concessione e sulla legalità degli aiuti di Stato.
 
-Our lawyers have successfully represented major companies before the Competition Council and the courts, advising clients on the application of European Union and national competition law.
+I nostri avvocati hanno rappresentato con successo importanti società dinanzi al Consiglio della concorrenza e ai tribunali, fornendo consulenza ai clienti sull'applicazione del diritto della concorrenza dell'Unione europea e nazionale.
 
-Our lawyers represent clients' interests before the Competition Council in connection with its investigations, including investigations into possible abuse of a dominant position, in providing written commitments to the Competition Council, and in defending the client's interests in court in relation to the implementation and application of the legal norms relating to the investigation and the commitment.
+I nostri avvocati rappresentano gli interessi dei clienti dinanzi al Consiglio della concorrenza in relazione alle sue indagini, comprese quelle relative a possibili abusi di posizione dominante, alla presentazione di impegni scritti al Consiglio della concorrenza e alla difesa degli interessi del cliente in tribunale in relazione all'attuazione e all'applicazione delle norme giuridiche relative all'indagine e all'impegno.

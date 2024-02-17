@@ -1,0 +1,103 @@
+<!-- Language radio -->
+      <div class="grid grid-cols-5 md:grid-cols-9 gap-4">
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">EN</span>
+            <input
+              onClick="window.location='../en/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">RU</span>
+            <input
+              onClick="window.location='../ru/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">IT</span>
+            <input
+              onClick="window.location='index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+              checked
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">FR</span>
+            <input
+              onClick="window.location='../fr/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">PL</span>
+            <input
+              onClick="window.location='../pl/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">LT</span>
+            <input
+              onClick="window.location='../lt/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">NO</span>
+            <input
+              onClick="window.location='../no/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">ES</span>
+            <input
+              onClick="window.location='../es/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+        <div class="form-control">
+          <label class="label cursor-pointer">
+            <span class="label-text">DE</span>
+            <input
+              onClick="window.location='../de/index.html';"
+              type="radio"
+              name="radio-10"
+              class="radio"
+            />
+          </label>
+        </div>
+      </div>
