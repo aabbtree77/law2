@@ -23,6 +23,30 @@ body {
   height: 100%;
 }
 
+/* From daisyUI */
+
+.form-control {
+    display: flex;
+    flex-direction: column
+}
+    
+.label {
+    display: flex;
+    -webkit-user-select: none;
+            user-select: none;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem
+}
+    
+.label-text {
+    font-size: 2rem;
+    line-height: 3rem;
+}    
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

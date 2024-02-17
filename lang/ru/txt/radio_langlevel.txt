@@ -1,5 +1,5 @@
  <!-- Language radio -->
-      <div class="grid grid-cols-5 md:grid-cols-9 gap-4">
+
         <div class="form-control">
           <label class="label cursor-pointer">
             <span class="label-text">EN</span>
@@ -100,4 +100,4 @@
             />
           </label>
         </div>
-      </div>
+
