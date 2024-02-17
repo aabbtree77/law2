@@ -1,8 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+}
+
+/*
+* {
   outline: 1px solid red;
 }
+*/
 
 html {
   height: 100%;
@@ -45,7 +50,9 @@ body {
   line-height: 3rem;
 }
 
-/*! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com*/
+/*
+! tailwindcss v3.4.1 | MIT License | https://tailwindcss.com
+*/
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -1669,6 +1676,10 @@ video {
 
 .w-1\/2 {
   width: 50%;
+}
+
+.w-11\/12 {
+  width: 91.666667%;
 }
 
 .w-12 {
