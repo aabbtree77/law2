@@ -62,7 +62,7 @@ Leonardo da Vinci vs. [leonardo.ai](https://leonardo.ai/).
 
 ## Credits
 
-Thanks to Samuel Dawson for his minimal [typewriter effect](https://tailwindflex.com/@samuel33/typewriter-effect) in vanilla Js. One must wrap the HTML text element inside <div class="h-32"> of a fixed height to avoid the side effect of the outer container resizing. 
+Thanks to Samuel Dawson for his minimal [typewriter effect](https://tailwindflex.com/@samuel33/typewriter-effect) in vanilla Js. One must wrap the text div inside another div of a fixed height to avoid the side effect of the outer container resizing. 
 
 DeepL is incredible, but it does not support Latin, Esperanto, or Japanese yet. However, it does support the Greek language.
 
@@ -70,7 +70,7 @@ I have applied two icons from [Heroicons](https://heroicons.com/). It is very ni
 
 ## P.S.
 
-Initially, played a lot with React and daisyUI, following [ForrestKnight](https://www.youtube.com/watch?v=b0pkpcD8Ms4&t=349s). It looks nice to write HTML with React components (jsx, virtual dom), but that comes at a price. Vite, configuration, @, build, jsx with its own shenanigans. Styling gets messed up as the libs clash, daisyUI intrudes on the root element, decided to discard React and daisyUI for static websites.
+Initially, played with React and daisyUI, following [ForrestKnight](https://www.youtube.com/watch?v=b0pkpcD8Ms4&t=349s). It looks nice to write HTML with React components (jsx, virtual dom), but that comes at a price. Vite, configuration, @, build, jsx with its own shenanigans. Styling gets messed up as the libs clash, daisyUI intrudes on the root element, decided to discard React and daisyUI for static websites.
 
 Started appreciating vscode, mildly. Used vim in the past, and then just gedit on Ubuntu lately, but they are not good for html. 
 
@@ -80,9 +80,9 @@ HTML is horrid, but one can already write components with, say, React. One can a
 
 I did not have enough energy-time to try web components yet. The best components are nonexisting components.
 
-Styling remains a pain. Very hard to position and size the HTML elements, esp. if you are pedantic about extra scrolling bars or wrapping long email names on smaller screens or something flickering. Styles clash. The first version optimized a layout prematurely on a desktop where I had occassionally resized a browser window for "responsive design". A real test with Xiaomi, and the horror story emerges. So many microproblems emerge. So much micromanagement. Very good for a PhD thesis perhaps, not so good for productivity. Hence, see the first rule of frontend above. 
+Styling remains a pain. Very hard to position and size the HTML elements, esp. if you are pedantic about extra scrolling bars or wrapping long email names on smaller screens. Styles clash. Firstly, I optimized a layout prematurely on a desktop where I had occassionally resized a browser window for "responsive design". A real test with Xiaomi, and the horror story emerges. So many microproblems, so much micromanagement. Very good for a PhD thesis, not so good for productivity. Hence, see the first rule of frontend above. 
 
-I get an uneasy feeling that the Blender community achieves a lot more, but the grass is always greener on the other side. I suspect they still cannot drill a hole without manual retopology. All these problems only look very simple, but reality is counterintuitive. It is easier to turn a photo into a van Gogh style image than to texture a 3D mesh of the door into something wooden.
+I get an uneasy feeling that the Blender community achieves a lot more, but the grass is always greener on the other side. I suspect they still cannot drill a hole without manual retopology every time. All these problems only look very simple, but reality is counterintuitive. It is easier to turn a photo into a van Gogh style image than to texture a 3D mesh of the door into something wooden.
 
 How to solve the styling problem, it should not be this hard?!
 
