@@ -44,7 +44,7 @@ My work solves the following problems:
     ```   
 
 The English language file is chosen as the main one, edit index.css and simonas.ico paths in the copied top level variant. Replace the section
-"<!-- Language radio -->" with the content of radio_toplevel.txt.
+titled by the HTML comment "Language radio" with the content of radio_toplevel.txt.
 
 ## Philosophy/Experience
 
@@ -54,7 +54,7 @@ The first rule of frontend is: Don't do the frontend.
 
 Web-wise, we are not viewers or readers, we are scanners.
 
-Lately, I also notice some gyms inform people about their working schedule changes on the company's instagram, not updating the homepage anymore. Instagram is more convenient, direct, and reaching more.
+Instagram and X are more convenient and direct.
 
 Web design evolves like those colorful peafowls. This is about Darwin, not SOLID. I see people still add carousels with videos and "contact us" cards and chat assistants, progressive loading, all this extra clicking and attention hijacking. Horizontal scrolling just because "we can". Just drop it. None of this improves search, loading, information gathering. 
 
@@ -70,19 +70,11 @@ I have applied two icons from [Heroicons](https://heroicons.com/). It is very ni
 
 ## P.S.
 
-Initially, played with React and daisyUI, following [ForrestKnight](https://www.youtube.com/watch?v=b0pkpcD8Ms4&t=349s). It looks nice to write HTML with React components (jsx, virtual dom), but that comes at a price. Vite, configuration, @, build, jsx with its own shenanigans. Styling gets messed up as the libs clash, daisyUI intrudes on the root element, decided to discard React and daisyUI for static websites.
-
-Started appreciating vscode, mildly. Used vim in the past, and then just gedit on Ubuntu lately, but they are not good for html. 
-
-We now live in the age of abundance so that exhausting any web solution space and picking the right way is no longer viable. 
-
 HTML is horrid, but one can already write components with, say, React. One can also simply fold/unfold divs in vscode with ctrl+shift+[]. ctrl+s not only saves a file, it formats a mess with prettier and lints the code. Often, one still does not know where that closing div is missing, but these two commands are already incredible and with vertical div matching lines they win over React components, in the static case.
 
 I did not have enough energy-time to try web components yet. The best components are nonexisting components.
 
-Styling remains a pain. Very hard to position and size the HTML elements, esp. if you are pedantic about extra scrolling bars or wrapping long email names on smaller screens. Styles clash. Firstly, I optimized a layout prematurely on a desktop where I had occassionally resized a browser window for "responsive design". A real test with Xiaomi, and the horror story emerges. So many microproblems, so much micromanagement. Very good for a PhD thesis, not so good for productivity. Hence, see the first rule of frontend above. 
+Styling remains a pain. So many microproblems, so much micromanagement. Very good for a PhD thesis, not so good for productivity. Hence, see the first rule of frontend above. 
 
-I get an uneasy feeling that the Blender community achieves a lot more, but the grass is always greener on the other side. I suspect they still cannot drill a hole without manual retopology every time. All these problems only look very simple, but reality is counterintuitive. It is easier to turn a photo into a van Gogh style image than to texture a 3D mesh of the door into something wooden.
-
-How to solve the styling problem, it should not be this hard?!
+I get an uneasy feeling that the Blender community achieves a lot more, but the grass is always greener on the other side. I suspect they still cannot drill a hole without manual retopology every time.
 
