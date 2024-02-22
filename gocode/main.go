@@ -30,7 +30,7 @@ func main() {
 		"realestate", "labour", "it",
 		"dispute", "simonas"}
 
-	slotContentFileNames := []string{"banner01", "banner02", "banner03", "surname",
+	slotContentFileNames := []string{"banner01", "banner02", "banner03", "banner04", "surname",
 		"radio_langlevel", "langcode"}
 
 	langs := []string{"de", "en", "es", "fr", "it", "lt", "no", "pl", "ru"}

@@ -1694,6 +1694,10 @@ video {
   width: 5rem;
 }
 
+.w-4\/5 {
+  width: 80%;
+}
+
 .w-\[this-is\\\\\] {
   width: this-is\\;
 }
@@ -2826,6 +2830,11 @@ video {
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
+}
+
+.py-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .py-5 {
@@ -5339,6 +5348,10 @@ video {
     height: 100vh;
   }
 
+  .xl\:w-1\/2 {
+    width: 50%;
+  }
+
   .xl\:flex-row {
     flex-direction: row;
   }
@@ -5350,6 +5363,11 @@ video {
   .xl\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
+  }
+
+  .xl\:text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
   }
 
   .xl\:text-9xl {

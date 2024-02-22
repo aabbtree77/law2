@@ -11,13 +11,13 @@
 </tr>
 </table>
 
-This is a rewrite of [lawlt.eu](http://www.lawlt.eu/), a law firm website.
+[Lawtrust.eu](https://lawtrust.eu/) is a rewrite of [lawlt.eu](http://www.lawlt.eu/), a law firm website.
 
 My work solves the following problems:
 
 - Uses HTTPS instead of HTTP.
 
-- Removes the need for paid hosting, i.e. dropping a CMS and using public github pages as all the information is static and public anyway.
+- Removes the need for a paid hosting. Dropping a CMS and using public github pages as all the information is static and public anyway.
 
 - More legible typography.
 
@@ -25,7 +25,7 @@ My work solves the following problems:
 
 - Fixes a lot of i18n problems (9 languages, all practised by a single lawyer!)
 
-- Provides a unique quality landing page and promotes minimalism (no templates, no bs).
+- No templates, no bs (Messenger chat popups, extra scroll bars, attention hijacking).
 
 ## Tech/Setup
 
@@ -52,9 +52,7 @@ The first rule of frontend is: Don't do the frontend.
 
 [List is all you need](https://dynomight.net/lists/).
 
-Web-wise, we are not viewers or readers, we are scanners.
-
-Instagram and X are more convenient and direct.
+Instagram and X can be more convenient and direct.
 
 Web design evolves like those colorful peafowls. This is about Darwin, not SOLID. I see people still add carousels with videos and "contact us" cards and chat assistants, progressive loading, all this extra clicking and attention hijacking. Horizontal scrolling just because "we can". Just drop it. None of this improves search, loading, information gathering. 
 
@@ -70,11 +68,11 @@ I have applied two icons from [Heroicons](https://heroicons.com/). It is very ni
 
 ## P.S.
 
-HTML is horrid, but one can already write components with, say, React. One can also simply fold/unfold divs in vscode with ctrl+shift+[]. ctrl+s not only saves a file, it formats a mess with prettier and lints the code. Often, one still does not know where that closing div is missing, but these two commands are already incredible and with vertical div matching lines they win over React components, in the static case.
+HTML is horrid, but one can already write components with, say, React (jsx). One can also simply fold/unfold divs in vscode with ctrl+shift+[]. ctrl+s not only saves a file, it formats a mess with prettier. Still no clue where that closing div is missing...
 
 I did not have enough energy-time to try web components yet. The best components are nonexisting components.
 
-Styling remains a pain. So many microproblems, so much micromanagement. Very good for a PhD thesis, not so good for productivity. Hence, see the first rule of frontend above. 
+Responsive layouts remain a huge pain. So many microproblems, so much micromanagement.
 
-I get an uneasy feeling that the Blender community achieves a lot more, but the grass is always greener on the other side. I suspect they still cannot drill a hole without manual retopology every time.
+I get a feeling that the Blender community achieves a lot more by not having responsive layouts as the major requirement to begin with.
 
