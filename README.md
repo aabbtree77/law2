@@ -68,11 +68,10 @@ I have applied two icons from [Heroicons](https://heroicons.com/). It is very ni
 
 ## P.S.
 
-HTML is horrid, but one can already write components with, say, React (jsx). One can also simply fold/unfold divs in vscode with ctrl+shift+[]. ctrl+s not only saves a file, it formats a mess with prettier. Still no clue where that closing div is missing...
+HTML is horrid. One can already write components with, say, [React (jsx)](https://www.youtube.com/watch?v=g9hPa-G3lfw), but that adds hundreds of kilobytes of needless Js to load and does not solve the layout problem. What helps a lot is simply fold/unfold divs in vscode with ctrl+shift+[]. ctrl+s not only saves a file, it formats a mess with prettier. Still no clue where that closing div is missing...
 
 I did not have enough energy-time to try web components yet. The best components are nonexisting components.
 
-Responsive layouts remain a huge pain. So many microproblems, so much micromanagement.
+Responsive layouts remain a huge pain. So many microproblems, so much micromanagement. F12 and resizing the window is not enough to reveal the bugs that occur on some real screens. There was one real screen overlapped text problem I could only simulate by changing the desktop resolution to 1280x720 and hitting F11.
 
-I get a feeling that the Blender community achieves a lot more by not having responsive layouts as the major requirement to begin with.
-
+There must be a better way to do HTML layouts, we need an open source engine for that, some kind of Blender HTML. Until those better times, I would just use single-column layouts, mobile first and mostly. Do not use h-screen at all, do not fit stuff into a desktop screen as they are all different, use very few font sizes, do not add any "hero cards" that use text with images nearby. Do not focus on the looks, get an MVP and iterate a bit, it is all about exponentially diminishing returns afterwards.
