@@ -44,31 +44,30 @@ The English language file is chosen as the main one, edit `index.css`, `simonas.
 
 ## Take Away Messages
 
-The first rule of any frontend is: Don't do the frontend.
+- A small non-marketed web site is almost invisible on the search. SEO is rain water. You are visible as long as you pay.
 
-We all hate mobile phone browsers.
+- A page on Instagram will bring higher visibility and will be easier to update.
 
-A page on Instagram will bring higher visibility and will be easier to update a year later. Also, let them worry about mobile UX.
+- i18n is a maintenance burden. It looks nice and all, but 18 sections times 9 languages is tedious. Batch processing with DeepL is very limited.
 
-A small non-marketed web site is almost invisible on the search. SEO is rain water. You are visible as long as you pay Google/Microsoft.
+- Modern web pages are full of nonsense: Carousels with videos, "Contact Us" cards, chat assistants, progressive loading, horizontal scrolling, modal windows...
 
-Web design can be horrid. I see people still add carousels with videos and "contact us" cards and chat assistants, progressive loading, all this extra clicking and attention hijacking. Horizontal scrolling and swipes just because "we can". Just drop it. None of this works.
+- [List is all you need](https://dynomight.net/lists/). Find out how to make them a bit more fancy, that is it. Still need to be careful with a background image as it may add a white blink on the first paint while the page loads.
+
+- Styling is hard as we do not have a fixed screen size and the same DPI. Redmi 12C (Android 14) has a browser viewport of 360x698 pixels and size 6.7". At the other end we have the UHD 3840×2160 resolution and size 32". Landscape vs Portrait...
+
+- Relying on Chrome, F12, and window resizings may not be enough. I had an overlapping text which could only be simulated by changing the desktop resolution to 1280x720 and hitting F11. Resizing browser window after F12 would not reveal it.
+
+- I would recommend mostly single-column layouts. Do not use h-screen at all, do not fit stuff into a desktop screen as they are all totally different. Use very few font sizes, do not add any hero cards, toasts, hamburger buttons, do not maximize the screen space usage. Do not focus on the looks, the CSS will be a micromanagement nightmare.
 
 ## Credits
 
 Thanks to Samuel Dawson for his minimal [typewriter effect](https://tailwindflex.com/@samuel33/typewriter-effect) in vanilla Js. One must wrap the text div inside another div of a fixed height to avoid the side effect of the outer container resizing. 
 
-DeepL is incredible, but some checking and cleaning is generally needed, which can be annoying. Still, a decent translation. I think human translators will be needed only for very peculiar cases like high class literature, Latin, Esperanto, [Samogitian](https://www.youtube.com/watch?v=lqSfOYhctoE)...
-
 I have applied two icons from [Heroicons](https://heroicons.com/). It is very nice to copy/paste svgs directly, too bad they have only a few icons. I am not sure icons are needed. Canon vs. Sony so to speak.
 
-## P.S.
+DeepL is incredible, but some checking and cleaning is generally needed, which can be annoying. Still, a decent translation. I think human translators will soon be needed only for high quality texts or special languages and dialects, e.g. Latin, Esperanto, [Samogitian](https://www.youtube.com/watch?v=lqSfOYhctoE)...
 
-HTML/CSS is hard as we do not have a fixed screen size. My relatively modern mobile phone (Redmi 12C, Android 14) has a lot of pixels and megapixels, but its browser viewport is 360x698 pixels only. On the other end we have the UHD 3840×2160. Relying on Chrome, F12, and resizings of the viewport to cover the intermediate states is both tedious and not enough to reveal the bugs that occur on some real screens. I had overlapping text I could only simulate by changing the desktop resolution to 1280x720 and hitting F11. Resizing browser window after F12 would not reveal it.
 
-There must be a better way to do HTML layouts, we need some kind of Blender HTML, or the problem is just hopeless. Until those better times, I would just use single-column layouts, mobile first and mostly. Do not use h-screen at all, do not fit stuff into a desktop screen as they are all different. Use very few font sizes, do not add any hero cards, toasts, hamburger buttons, do not maximize the screen space usage. 
 
-Do not focus on the looks, get an MVP functionality and iterate a bit. This is all about exponentially diminishing returns as CSS is by definition a micromanagement nightmare.
-
-[List is all you need](https://dynomight.net/lists/). Find out how to make them a bit more fancy, that is it. Still need to be careful with background images as they may add a white blink on the first paint while the page loads.
 
