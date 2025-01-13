@@ -46,15 +46,15 @@ The English language file is chosen as the main one, edit `index.css`, `simonas.
 
 - A small non-marketed web site is almost invisible on the search. SEO is rain water. You are visible as long as you pay.
 
-- A page on Instagram will bring higher visibility and will be easier to update.
+- A page on Instagram/Telegram will definitely be easier to create, read, update, delete.
 
-- i18n is a maintenance burden. It looks nice and all, but 18 sections times 9 languages is tedious. Batch processing with DeepL is very limited.
+- i18n is a maintenance burden. 18 sections times 9 languages is tedious. Batch processing with DeepL is very limited. ChatGPT?!
 
-- Modern web pages are full of nonsense: Carousels with videos, "Contact Us" cards, chat assistants, progressive loading, horizontal scrolling, modal windows...
+- Modern web pages are full of nonsense: Carousels with videos, "Contact Us" cards, chat assistants, progressive loading, horizontal scrolling, modal windows... As if any of this improves search.
 
 - [List is all you need](https://dynomight.net/lists/). Find out how to make them a bit more fancy, that is it. Still need to be careful with a background image as it may add a white blink on the first paint while the page loads.
 
-- Styling is hard as we do not have a fixed screen size and the same DPI. Redmi 12C (Android 14) has a browser viewport of 360x698 pixels and size 6.7". At the other end we have the UHD 3840×2160 resolution and size 32". Landscape vs Portrait...
+- Styling is hard as we do not have a fixed screen size and the same DPI. Redmi 12C (Android 14) has a browser viewport of only 360x698 pixels, size 6.7". Landscape vs Portrait...
 
 - Relying on Chrome, F12, and window resizings may not be enough. I had an overlapping text which could only be simulated by changing the desktop resolution to 1280x720 and hitting F11. Resizing browser window after F12 would not reveal it.
 
