@@ -42,6 +42,22 @@ My work solves the following problems:
 
 The English language file is chosen as the main one, edit `index.css`, `simonas.ico`, and `aealogo.jpg` paths in the copied top level `index.html`. Inject/copy-paste the content of radio_toplevel.txt below `<!-- Language radio -->` inside `index.html`.
 
+## SEO
+
+"Fair search" in practice:
+
+- [http://www.lawlt.eu/](http://www.lawlt.eu/) - Built around 2012, the HTTP, data inside the PHP CMS called "CMS Made Simple". Google was paid to advertise it on search.
+
+- [https://lawtrust.eu/](https://lawtrust.eu/) - Built in 2024, the HTTPS, data directly inside the HTML hosted on github.com. Github is owned by Microsoft. Google was never paid to advertise it.
+
+The search for "lawyer vilnius" (January 13th, 2025):
+
+- Google: lawlt.eu - Page 3, lawtrust.eu - Page 13.
+
+- Bing: lawlt.eu  - no results in the first 20 pages, lawtrust.eu - Page 1!
+
+- DuckDuckGo: lawlt.eu  - no results in the first 20 pages, lawtrust.eu - Page 1!
+
 ## Take Away Messages
 
 - A small non-marketed web site is almost invisible on the search. SEO is rain water. You are visible as long as you pay.
