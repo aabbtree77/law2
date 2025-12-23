@@ -1,3 +1,14 @@
+# Disclaimer
+
+This project was originally developed as a personal HTML/CSS/JS exercise to modernize an older site (`lawlt.eu`) 
+for educational purposes. The original domain `lawtrust.eu` coincided with an existing company and has since been removed or transferred. 
+
+This repository is retained solely for educational and reference purposes, 
+to showcase layout, styling, and tooling experiments. 
+
+No current affiliation, endorsement, or representation of the original person or company is implied. 
+Any identifiable content in this repository is historical and not intended for public use.
+
 ## Introduction 
 
 <table>
